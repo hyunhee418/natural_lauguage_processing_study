@@ -78,12 +78,12 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 
 1. url 접속
-   ![1575955966492](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575955966492.png)
+   ![1575955966492](./images/1575955966492.png)
 
 2. JPype 찾기
-   ![1575955996047](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575955996047.png)
+   ![1575955996047](./images/1575955996047.png)
 
-3. 해당 Os 선택 후 다운![1575956020567](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575956020567.png)
+3. 해당 Os 선택 후 다운![1575956020567](./images/1575956020567.png)
 
 4. 다운 받은 파일을 작업할 폴더로 이동
 
