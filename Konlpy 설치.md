@@ -72,36 +72,49 @@ https://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 ​	![1575951246877](./images/1575951246877.png)
 
+## JPype 설치
 
-6. 작업 폴더로 가서 bash 열기
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-7. bash에서 아까 다운 받은 JPype 파일을 설치한다.
-   
+
+1. url 접속
+   ![1575955966492](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575955966492.png)
+
+2. JPype 찾기
+   ![1575955996047](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575955996047.png)
+
+3. 해당 Os 선택 후 다운![1575956020567](C:\Users\son\AppData\Roaming\Typora\typora-user-images\1575956020567.png)
+
+4. 다운 받은 파일을 작업할 폴더로 이동
+
+5. bash에서 다운 받은 JPype 파일을 설치한다.
+
 
    ![1575951611224](./images/1575951611224.png)
-   
 
-8. 설치가 완료되었다면 konlpy를 설치
+6. 설치가 완료되었다면 konlpy를 설치
 
    ![1575951694337](./images/1575951694337.png)
 
 
 
-9. 설치가 되었는 지 확인
+# 설치 확인
 
-   작업 폴더에 가상 환경 만들기
+1. 작업 폴더에 가상 환경 만들기
 
 
    ![1575951863542](./images/1575951863542.png)
 
-   환경 내 jupyter 설치
+   
+
+2. 환경 내 jupyter 설치
 
    ![1575951973611](./images/1575951973611.png)
 
-   jupyter notebook 실행
+3. jupyter notebook 실행
 
    ![1575952008588](./images/1575952008588.png)
 
-   konlpy 내 있는 함수를 사용하며 설치가 되었는 지 확인
+4. konlpy 내 있는 함수를 사용하며 설치가 되었는 지 확인
 
    ![1575952093213](./images/1575952093213.png)
